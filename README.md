@@ -208,9 +208,8 @@ The header of the web app also shows live **API** and **DB** status indicators.
 ## 👤 Author
 
 **Purvesh**: B.Tech, Mechanical Engineering, IIT Patna
+**Ayush**: B.Tech, Mechanical Engineering, IIT Patna
+**Akshat**: B.Tech, Metallurgy Engineering , IIT Patna
 
----
 
-## 📄 License
 
-Add your licence here (for example MIT), or remove this section.
